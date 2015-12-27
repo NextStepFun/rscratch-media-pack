@@ -12,5 +12,5 @@ gem 'rscratch-media-pack'
 ## License
 
 This package is distributed under the MIT license, while files included in the /media directory are distributed 
-under the (Creative Commons Attribution-ShareAlike 2.0)[https://creativecommons.org/licenses/by-sa/2.0/] License.
+under the [Creative Commons Attribution-ShareAlike 2.0](https://creativecommons.org/licenses/by-sa/2.0/) License.
 
