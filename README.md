@@ -1,6 +1,6 @@
 ## Synopsis
 
-This package contains default media files for the `rscratch` gem from Scratch (https://scratch.mit.edu)
+This package contains default media files for the `rscratch` gem from [Scratch](https://scratch.mit.edu).
 
 ## Installation
 
